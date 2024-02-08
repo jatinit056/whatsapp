@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "227265967291",
+    "firebase_url": "https://whatsapp-master-891f4-default-rtdb.firebaseio.com",
+    "project_id": "whatsapp-master-891f4",
+    "storage_bucket": "whatsapp-master-891f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227265967291:android:9e4e96d8438f855ae2a59e",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYc96R-jLFCoTxM9AA2_D5yiRFHHcCSjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
